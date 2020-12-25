@@ -3,7 +3,7 @@ import React from 'react'
 export const Header = (): JSX.Element => {
   return (
     <div>
-      <h1>This is a sample React-powered extension!</h1>
+      <h1>This is a new comonent!</h1>
       <h3>
         <a
           href="https://daviseford.com"
@@ -11,7 +11,7 @@ export const Header = (): JSX.Element => {
           rel="noopener noreferrer"
           style={{ color: 'yellow' }}
         >
-          by Davis E. Ford
+          by frank
         </a>
       </h3>
     </div>
